@@ -1,0 +1,34 @@
+.container-story {
+    padding: 15px;
+    display: flex;
+    gap: 19px;
+    overflow: hidden;
+}
+
+.story-elements {
+    cursor: pointer;
+}
+
+.user-elements div {
+    width: 61px;
+    height: 61px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(#c82d8e, #f99d4c);
+}
+
+.image-user-story {
+    border: 2px solid var(--background);
+    border-radius: 50%;
+}
+
+.user-elements span {
+    font-size: 13px;
+    cursor: pointer;
+    /* margin-left: 11px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
