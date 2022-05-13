@@ -1,3 +1,3 @@
   # Instagram Clone
-  ![Screenshot](printinsta.png)
+  ![Screenshot](gifinsta.png)
 
